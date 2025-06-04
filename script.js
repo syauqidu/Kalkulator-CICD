@@ -25,6 +25,7 @@ function deleteLast() {
 
 function performCalculation(expression) {
   try {
+    //test
     // Peringatan: Penggunaan 'new Function' bisa berisiko jika input tidak aman.
 
     // Untuk kalkulator sederhana ini, ini adalah pendekatan umum.
